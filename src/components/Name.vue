@@ -10,5 +10,6 @@ defineProps<{ name: string }>()
 <style scoped>
     h1{
         text-align: right;
+        font-size: 4rem;
     }
 </style>
