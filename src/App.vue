@@ -25,13 +25,15 @@
     background-color: black;
     color: white;
     font-family: monospace;
+    margin: 0;
   }
 
   main{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 500px;
+    margin: 0 auto 0 auto;
+    height: 100vh;
     width: 500px;
   }
 
