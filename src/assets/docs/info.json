@@ -1,0 +1,95 @@
+{
+    "info": {
+        "name": "Leandro Rocha Liberato Gonçalves",
+        "birthDate": {
+            "day": 11,
+            "month": 4,
+            "year": 2002
+        },
+        "location": {
+            "city": "Itajubá",
+            "state": "MG",
+            "country": "Brazil"
+        }
+    },
+    "education": {
+        "highSchool": {
+            "name": "Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG",
+            "course": "Building and Construction Technician",
+            "year": 2018
+        },
+        "college": {
+            "name": "Universidade Federal de Itajubá - UNIFEI",
+            "course": "Computer Science",
+            "year": 2021
+        }
+    },
+    "work": [{
+        "company": "Instituto de Matemática e Computação UNIFEI",
+        "role": "Object-Oriented Programming Monitor",
+        "year": 2023
+    }],
+    "skills": {
+        "programmingLanguages": [
+            "C",
+            "C++",
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "SQL"
+        ],
+        "frameworks": [
+            "React",
+            "Node.js",
+            "Express",
+            "Vue.js"
+        ],
+        "databases": [
+            "PostgreSQL",
+            "MongoDB"
+        ],
+        "tools": [
+            "Git",
+            "Figma"
+        ]
+    },
+    "languages": {
+        "portuguese": "native",
+        "english": "advanced",
+        "spanish": "intermediate"
+    },
+    "interests": [
+        "Full Stack Development",
+        "Motorsports",
+        "Movies",
+        "Football"
+    ],
+    "social": {
+        "email": "leandrochaju@hotmail.com",
+        "linkedin": "https://www.linkedin.com/in/leandro-rocha-258b90198/",
+        "github": "https://github.com/LeandroRochAlg",
+        "instagram": "https://www.instagram.com/leandrorochalg",
+        "twitter": "https://twitter.com/LeandroRochAlg",
+        "tiktok": "https://www.tiktok.com/@leandrorochalg",
+        "letterboxd": "https://letterboxd.com/LeandroRochAlg",
+        "vsco": "https://vsco.co/leandrorochalg"
+    },
+    "projects": [{
+        "name": "RochGamer",
+        "description": "A YouTube channel focused on video games.",
+        "year": 2018,
+        "link": "https://www.youtube.com/@rochgamer"
+    }, {
+        "name": "Curva 0",
+        "description": "A YouTube channel focused on motorsports, especially Formula 1.",
+        "year": 2022,
+        "link": "https://www.youtube.com/@curva0"
+    }, {
+        "name": "Oscars-Pool",
+        "description": "A web application to pool the Oscar winners.",
+        "year": 2023,
+        "link": "https://oscars-pool.vercel.app/"
+    }]
+}
