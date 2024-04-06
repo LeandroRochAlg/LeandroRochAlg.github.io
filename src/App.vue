@@ -12,7 +12,7 @@
       <Name :name="name"/>
     </div>
     <hr>
-    <div>
+    <div class="info">
       <Info/>
     </div>
   </main>

@@ -3,13 +3,11 @@
 </script>
 
 <template>
-    <div class="info">
-        <p>Brazillian Computer Science student and passionate for motorsports and movies!</p>
-    </div>
+    <p>Brazillian Computer Science student and passionate for motorsports and movies!</p>
 </template>
 
 <style scoped>
-    .info{
+    p{
         text-align: left;
         font-size: 1.25rem;
     }
