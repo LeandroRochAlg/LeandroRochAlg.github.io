@@ -34,7 +34,7 @@
     align-items: center;
     margin: 0 auto 0 auto;
     height: 100vh;
-    width: 500px;
+    width: fit-content;
   }
 
   .name, .info{
