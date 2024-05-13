@@ -45,4 +45,23 @@
     margin: 1rem;
     height: 50%;
   }
+
+  @media screen and (max-width: 768px){
+    main{
+      flex-direction: column;
+      text-align: center;
+    }
+
+    hr{
+      margin: 1.5rem 0 1.5rem 0;
+      height: 2px;
+      width: 100%;
+      background-color: white;
+      border: none;
+    }
+
+    .name, .info{
+      width: 350px;
+    }
+  }
 </style>

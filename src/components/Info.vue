@@ -11,4 +11,11 @@
         text-align: left;
         font-size: 1.25rem;
     }
+
+    @media screen and (max-width: 768px){
+        p{
+            text-align: center;
+            margin: 0;
+        }
+    }
 </style>

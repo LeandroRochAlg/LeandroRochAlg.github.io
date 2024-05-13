@@ -12,4 +12,11 @@ defineProps<{ name: string }>()
         text-align: right;
         font-size: 4rem;
     }
+
+    @media screen and (max-width: 768px){
+        h1{
+            text-align: center;
+            margin: 0;
+        }
+    }
 </style>
